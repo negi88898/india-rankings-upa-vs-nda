@@ -43,3 +43,18 @@
 ### Passport Power (Henley Index)
 ![Passport Rank](05_passport.png)
 
+### Poverty Rate (World Bank)
+![Poverty Rate](02_poverty.png)
+
+### Unemployment Rate (World Bank/ILO)
+![Unemployment](03_unemployment.png)
+
+### Rupee vs Dollar (RBI)
+![INR vs USD](06_inr_usd.png)
+
+### Pollution / PM2.5 (IQAir)
+![Pollution](07_pollution.png)
+
+### Terrorism Impact (IEP)
+![Terrorism Index](08_terrorism.png)
+
