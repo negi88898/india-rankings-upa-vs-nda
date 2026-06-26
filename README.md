@@ -30,3 +30,16 @@
 - `charts/` — PNG chart exports (for GitHub README / LinkedIn post)
 - `India_Rankings_Presentation.pptx` — ready-to-present PPT deck
 - `README.md` — this file
+
+
+## Sample Visuals
+
+### HDI Rank (UNDP) — UPA vs NDA
+![HDI Rank](charts/01_hdi_rank.png)
+
+### Corruption Perceptions Index (Transparency International)
+![Corruption Index](charts/04_corruption.png)
+
+### Passport Power (Henley Index)
+![Passport Rank](charts/05_passport.png)
+
