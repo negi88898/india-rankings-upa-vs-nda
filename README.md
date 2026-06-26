@@ -35,11 +35,11 @@
 ## Sample Visuals
 
 ### HDI Rank (UNDP) — UPA vs NDA
-![HDI Rank](charts/01_hdi_rank.png)
+![HDI Rank](01_hdi_rank.png)
 
 ### Corruption Perceptions Index (Transparency International)
-![Corruption Index](charts/04_corruption.png)
+![Corruption Index](04_corruption.png)
 
 ### Passport Power (Henley Index)
-![Passport Rank](charts/05_passport.png)
+![Passport Rank](05_passport.png)
 
