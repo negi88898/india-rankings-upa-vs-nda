@@ -63,7 +63,7 @@ Static charts generated directly from the SQLite database using pandas + matplot
 
 
 ## Power BI Dashboard
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](powerbi_dashboard.png.png)
 
 Interactive dashboard (.pbix) available in this repo — open with Power BI Desktop (free) to explore.
 
