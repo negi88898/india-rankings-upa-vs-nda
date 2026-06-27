@@ -32,7 +32,9 @@
 - `README.md` — this file
 
 
-## Sample Visuals
+## Python Analysis (matplotlib)
+Static charts generated directly from the SQLite database using pandas + matplotlib — see `analysis.py`.
+
 
 ### HDI Rank (UNDP) — UPA vs NDA
 ![HDI Rank](01_hdi_rank.png)
@@ -57,4 +59,12 @@
 
 ### Terrorism Impact (IEP)
 ![Terrorism Index](08_terrorism.png)
+
+
+
+## Power BI Dashboard
+![Power BI Dashboard](powerbi_dashboard.png)
+
+Interactive dashboard (.pbix) available in this repo — open with Power BI Desktop (free) to explore.
+
 
